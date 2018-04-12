@@ -32,7 +32,7 @@
         <EditText
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight="1"
+            android:layout_weight="2"
             android:id="@+id/phnumber"
             android:hint="Enter Phone Number"
             android:textSize="20sp"
@@ -57,7 +57,7 @@
         <EditText
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight="1"
+            android:layout_weight="2"
             android:id="@+id/numplate"
             android:hint="Enter Number Plate"
             android:textSize="20sp"
